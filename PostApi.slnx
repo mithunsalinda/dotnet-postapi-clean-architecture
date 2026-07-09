@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="PostApi.Application/PostApi.Application.csproj" />
+  <Project Path="PostApi.Domain/PostApi.Domain.csproj" />
+  <Project Path="PostApi.Infrastructure/PostApi.Infrastructure.csproj" />
+  <Project Path="PostApi/PostApi.csproj" />
+</Solution>
